@@ -8,9 +8,6 @@
 ### HelloWorld
 
 ###test
-<<<<<<< Updated upstream
 
 #testtesttest
-=======
 ###test01
->>>>>>> Stashed changes
